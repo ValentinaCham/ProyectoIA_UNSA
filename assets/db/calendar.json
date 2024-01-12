@@ -1,0 +1,17 @@
+[
+    {
+        "from": [2024, 2, 12, 4, 0],
+        "to": [2024, 2, 12, 4, 30],
+        "taskName": "Tarea 1 Ejemplo"
+    },
+    {
+        "from": [2024, 2, 12, 4, 0],
+        "to": [2024, 2, 12, 4, 30],
+        "taskName": "Tarea 2 Ejemplo"
+    },
+    {
+        "from": [2024, 2, 12, 4, 0],
+        "to": [2024, 2, 12, 4, 30],
+        "taskName": "Tarea 3 Ejemplo"
+    }
+]

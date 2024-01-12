@@ -1,0 +1,52 @@
+[
+    {
+      "titulo": "Aprender Flutter",
+      "categoria": "Estudio",
+      "contenido": "Estudiar y practicar Flutter para desarrollar aplicaciones móviles."
+    },
+    {
+      "titulo": "Proyecto de Desarrollo Web",
+      "categoria": "Desarrollo",
+      "contenido": "Trabajar en un proyecto de desarrollo web utilizando tecnologías modernas."
+    },
+    {
+      "titulo": "Tiempo Personal",
+      "categoria": "Personal",
+      "contenido": "Disfrutar de tiempo personal para relajarse y hacer actividades recreativas."
+    },
+    {
+      "titulo": "Descanso después del trabajo",
+      "categoria": "Descanso",
+      "contenido": "Tomar un descanso adecuado después de un día de trabajo agotador."
+    },
+    {
+      "titulo": "Preparación de Exámenes",
+      "categoria": "Estudio",
+      "contenido": "Revisar y prepararse para los próximos exámenes académicos."
+    },
+    {
+      "titulo": "Desarrollo de una Aplicación Móvil",
+      "categoria": "Desarrollo",
+      "contenido": "Trabajar en el desarrollo de una aplicación móvil utilizando Flutter y Dart."
+    },
+    {
+      "titulo": "Tiempo de Lectura",
+      "categoria": "Personal",
+      "contenido": "Dedicar tiempo a la lectura de libros y artículos interesantes."
+    },
+    {
+      "titulo": "Siesta",
+      "categoria": "Descanso",
+      "contenido": "Tomar una breve siesta para recargar energías."
+    },
+    {
+      "titulo": "Ejercicio Físico",
+      "categoria": "Personal",
+      "contenido": "Realizar actividades físicas para mantenerse en forma y saludable."
+    },
+    {
+      "titulo": "Investigación Tecnológica",
+      "categoria": "Desarrollo",
+      "contenido": "Investigar nuevas tecnologías y tendencias en el campo del desarrollo de software."
+    }
+  ]

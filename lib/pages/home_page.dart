@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_mlkit_text_recognition/google_mlkit_text_recognition.dart';
 import 'package:permission_handler/permission_handler.dart';
 import 'package:camera/camera.dart';
-import 'package:main_app_flutter/result_page.dart';
+import 'package:main_app_flutter/pages/result_page.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

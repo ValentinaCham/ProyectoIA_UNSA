@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:main_app_flutter/home_page.dart';
+import 'package:sizer/sizer.dart';
+import 'package:main_app_flutter/core/res/color.dart';
+import 'package:main_app_flutter/core/routes/routes.dart';
 
 void main() {
   runApp(const MyApp());
@@ -10,9 +12,14 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
-      title: 'Flutter Demo',
-      home: HomePage(),
-    );
+    return Sizer(builder: (context, orientation, deviceType) {
+      return MaterialApp(
+        title: 'Flutter Demo',
+        debugShowCheckedModeBanner: false,
+        theme: AppColors.getTheme,
+        initialRoute: Routes.onBoarding,
+        onGenerateRoute: RouterGenerator.generateRoutes,
+      );
+    });
   }
 }
