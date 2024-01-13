@@ -7,4 +7,5 @@ class AppConstants {
   static const String onBoardingSvg = _svg + "/onboarding.svg";
   static const String onBoardingGif = _gif + "/onboarding1.gif";
   static const String calendar = _db + "/calendar.json";
+  static const String notes = _db + "/notes.json";
 }

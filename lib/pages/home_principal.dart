@@ -249,7 +249,7 @@ class _HomeScreenState extends State<HomeScreen> {
             color: Colors.pink,
             icon: Icons.menu_book_rounded,
             taskCount: 10,
-            taskGroup: "Studying",
+            taskGroup: "Estudio",
           ),
         ),
         StaggeredGridTile.count(
@@ -260,7 +260,7 @@ class _HomeScreenState extends State<HomeScreen> {
             isSmall: true,
             icon: Icons.mobile_friendly,
             taskCount: 5,
-            taskGroup: "Mobile App Development",
+            taskGroup: "Desarrollo",
           ),
         ),
         StaggeredGridTile.count(
@@ -270,7 +270,7 @@ class _HomeScreenState extends State<HomeScreen> {
             color: Colors.green,
             icon: Icons.article,
             taskCount: 2,
-            taskGroup: "Blog",
+            taskGroup: "Personal",
           ),
         ),
         StaggeredGridTile.count(
@@ -281,7 +281,7 @@ class _HomeScreenState extends State<HomeScreen> {
             isSmall: true,
             icon: Icons.single_bed_sharp,
             taskCount: 9,
-            taskGroup: "Sleep",
+            taskGroup: "Descanso",
           ),
         ),
       ],

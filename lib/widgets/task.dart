@@ -58,7 +58,7 @@ class TaskWidget extends StatelessWidget {
                       height: 10,
                     ),
                     Text(
-                      "${taskModel.from.hour}  PM - ${taskModel.to.hour} PM",
+                      "${taskModel.from.hour} - ${taskModel.to.hour}",
                       style: TextStyle(
                         fontSize: 12,
                         color: Colors.white.withOpacity(0.6),
